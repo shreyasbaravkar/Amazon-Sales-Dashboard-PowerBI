@@ -10,7 +10,8 @@ The goal of this project is to transform raw sales data into meaningful business
 
 ## Dashboard Preview
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](<img width="1918" height="972" alt="Screenshot 2026-06-14 121911" src="https://github.com/user-attachments/assets/e290a5b8-c913-4165-8706-6a9b4e80c6e5" />
+
 
 ---
 
@@ -87,15 +88,7 @@ The dashboard highlights:
 ## Dataset
 
 Amazon Global Sales Dataset
-
 (Used for educational and portfolio purposes.)
 
 ---
 
-## Author
-
-Shreyas Baravkar
-
-LinkedIn: Add Your LinkedIn Link
-
-GitHub: Add Your GitHub Profile Link
